@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+    margin-left: 30px;
+}
+
+header
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+section{
+    margin-top: 150px;
+    margin-left: 10%;
+}
+
+.capa{
+    width: 90%;
+}
+
+.uni{
+    margin-left: 210px;
+}
+
+.para1{
+    margin-left: 210px;
+}
+
+.para2{
+    margin-left: 210px;
+}
+
+.dire{
+    margin-left: 43%;
+}
+
+.logo{
+    margin-left: 125px;
+}
+
